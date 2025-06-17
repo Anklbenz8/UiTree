@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c4629ba83f07b83408206920c17fe7cb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281722
+  packageName: Recyclable Tree View
+  packageVersion: 1.11
+  assetPath: Assets/UIRecycleTree/Scripts/RecycleTree/Editor/NodeStyle/IconPropertyDrawer.cs
+  uploadId: 716906

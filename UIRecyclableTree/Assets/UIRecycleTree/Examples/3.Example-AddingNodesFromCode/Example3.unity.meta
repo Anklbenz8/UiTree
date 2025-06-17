@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 73482968d51680d4d9d7eda59bd0f7ff
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281722
+  packageName: Recyclable Tree View
+  packageVersion: 1.11
+  assetPath: Assets/UIRecycleTree/Examples/3.Example-AddingNodesFromCode/Example3.unity
+  uploadId: 716906

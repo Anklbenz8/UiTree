@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1cf96259028912c4cbf555f8a1fc1902
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281722
+  packageName: Recyclable Tree View
+  packageVersion: 1.11
+  assetPath: Assets/UIRecycleTree/Scripts/RecycleTree/Styles/ExpandIcons.cs
+  uploadId: 716906

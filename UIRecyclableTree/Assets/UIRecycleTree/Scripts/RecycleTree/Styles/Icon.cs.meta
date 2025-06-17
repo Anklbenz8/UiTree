@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7a7904c29ce5b9940beffa6d5199b5f9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281722
+  packageName: Recyclable Tree View
+  packageVersion: 1.11
+  assetPath: Assets/UIRecycleTree/Scripts/RecycleTree/Styles/Icon.cs
+  uploadId: 716906

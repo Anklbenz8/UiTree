@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: dc2f9cae140a48c6a4d08162c33d9093
+timeCreated: 1710243021
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281722
+  packageName: Recyclable Tree View
+  packageVersion: 1.11
+  assetPath: Assets/UIRecycleTree/Scripts/RecycleTree/Node/View/ExpandedState.cs
+  uploadId: 716906

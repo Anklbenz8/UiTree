@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 603b038d3d57bd042b3b6337f92cabfb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281722
+  packageName: Recyclable Tree View
+  packageVersion: 1.11
+  assetPath: Assets/UIRecycleTree/Examples/4.Example-DifferentStyles/Example4.cs
+  uploadId: 716906

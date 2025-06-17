@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ee4baf098d96524409a29842bbcaebd2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281722
+  packageName: Recyclable Tree View
+  packageVersion: 1.11
+  assetPath: Assets/UIRecycleTree/Examples/2.Example-NodeAssignedData/Styles/Example2Style.asset
+  uploadId: 716906

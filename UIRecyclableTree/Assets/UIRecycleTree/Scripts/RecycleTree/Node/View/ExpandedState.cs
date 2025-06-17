@@ -1,0 +1,1 @@
+namespace UIRecycleTreeNamespace {	public enum ExpandedState {		Expanded,		Collapsed,		NoChild	}}

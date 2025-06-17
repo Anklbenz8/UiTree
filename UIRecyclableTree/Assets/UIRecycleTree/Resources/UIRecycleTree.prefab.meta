@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3e60d9489fb176649bb73072779552ca
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281722
+  packageName: Recyclable Tree View
+  packageVersion: 1.11
+  assetPath: Assets/UIRecycleTree/Resources/UIRecycleTree.prefab
+  uploadId: 716906

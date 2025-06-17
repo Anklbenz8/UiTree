@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6464a661ea714724d81dedce93b295c1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281722
+  packageName: Recyclable Tree View
+  packageVersion: 1.11
+  assetPath: Assets/UIRecycleTree/Scripts/RecycleTree/Styles/TextStyles.cs
+  uploadId: 716906

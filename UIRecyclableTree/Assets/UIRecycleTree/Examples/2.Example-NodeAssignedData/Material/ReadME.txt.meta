@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 65eb00b37c1c88d4a849ba524c2fc266
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281722
+  packageName: Recyclable Tree View
+  packageVersion: 1.11
+  assetPath: Assets/UIRecycleTree/Examples/2.Example-NodeAssignedData/Material/ReadME.txt
+  uploadId: 716906

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ec9e3c15752ea984b9dcf3f19c88b00e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281722
+  packageName: Recyclable Tree View
+  packageVersion: 1.11
+  assetPath: Assets/UIRecycleTree/Resources/Canvas.prefab
+  uploadId: 716906

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d59a7e8a1de080b41b9e8d84c21ea877
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281722
+  packageName: Recyclable Tree View
+  packageVersion: 1.11
+  assetPath: Assets/UIRecycleTree/Examples/4.Example-DifferentStyles/Example4.unity
+  uploadId: 716906

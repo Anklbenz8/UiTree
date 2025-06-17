@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0744cd06fe6bb5145899ca5ae0e0b16d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281722
+  packageName: Recyclable Tree View
+  packageVersion: 1.11
+  assetPath: Assets/UIRecycleTree/Examples/2.Example-NodeAssignedData/Material/SelectedMaterial.mat
+  uploadId: 716906

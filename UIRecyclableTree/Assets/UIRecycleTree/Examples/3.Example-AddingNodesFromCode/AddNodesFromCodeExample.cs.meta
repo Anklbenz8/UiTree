@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6e875a33f31608b4792957313113bd1a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 281722
+  packageName: Recyclable Tree View
+  packageVersion: 1.11
+  assetPath: Assets/UIRecycleTree/Examples/3.Example-AddingNodesFromCode/AddNodesFromCodeExample.cs
+  uploadId: 716906

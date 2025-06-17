@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 442293ec4d19927488b3df57e3f3127b, type: 3}
+  m_Name: Example3Style 1
+  m_EditorClassIdentifier: 
+  _toggleIcons:
+    noChildren:
+      sprite: {fileID: 0}
+      color: {r: 0.8235295, g: 0.8235295, b: 0.8235295, a: 0}
+    collapsed:
+      sprite: {fileID: 21300000, guid: 628f6b16210ea3d46a8fbd4995f747f5, type: 3}
+      color: {r: 0.8235294, g: 0.8235294, b: 0.8235294, a: 1}
+    expanded:
+      sprite: {fileID: 21300000, guid: dfdd930c1d0a8b2459d90cb448f2ffff, type: 3}
+      color: {r: 0.8235294, g: 0.8235294, b: 0.8235294, a: 1}
+  _imageIcons:
+    noChildren:
+      sprite: {fileID: 21300000, guid: 15633a99a0f49f843bb90fb0516d4a1c, type: 3}
+      color: {r: 0.8235294, g: 0.8235294, b: 0.8235294, a: 1}
+    collapsed:
+      sprite: {fileID: 21300000, guid: 8b7ca71839e3ff543a4a63cbf0c47269, type: 3}
+      color: {r: 0.8235294, g: 0.8235294, b: 0.8235294, a: 1}
+    expanded:
+      sprite: {fileID: 21300000, guid: 27f6e5f324a72654e9e639ff5a61aee6, type: 3}
+      color: {r: 0.8235294, g: 0.8235294, b: 0.8235294, a: 1}
+  _checkboxIcons:
+    checkedState:
+      sprite: {fileID: 21300000, guid: 3a2cc94ffb4463a4ab6506f3d3fefa52, type: 3}
+      color: {r: 0.8235294, g: 0.8235294, b: 0.8235294, a: 1}
+    uncheckedState:
+      sprite: {fileID: 21300000, guid: 5b0fb28e381951b4e9f304d7fbd075b8, type: 3}
+      color: {r: 0.8235294, g: 0.8235294, b: 0.8235294, a: 1}
+  _background:
+    backgroundImage:
+      sprite: {fileID: 0}
+      color: {r: 0.46012816, g: 0.4667241, b: 0.4716981, a: 0}
+    imageType: 1
+    pixelPerUnitMultiplier: 0.6
+  _nodeTextStyle:
+    fontAsset: {fileID: 0}
+    fontSize: 25
+    color: {r: 0.8235294, g: 0.8235294, b: 0.8235294, a: 1}
+    fontStyle: 0
+    wordSpacing: 0
+  _selectedState:
+    background:
+      backgroundImage:
+        sprite: {fileID: 0}
+        color: {r: 0.17254902, g: 0.3647059, b: 0.5294118, a: 1}
+      imageType: 1
+      pixelPerUnitMultiplier: 0.6
+    overrideFont: 1
+    textStyle:
+      fontAsset: {fileID: 0}
+      fontSize: 25
+      color: {r: 1, g: 1, b: 1, a: 1}
+      fontStyle: 0
+      wordSpacing: 0
+  _subSelectedState:
+    background:
+      backgroundImage:
+        sprite: {fileID: 0}
+        color: {r: 0.17254902, g: 0.3647059, b: 0.5294118, a: 0.20784314}
+      imageType: 0
+      pixelPerUnitMultiplier: 1
+    overrideFont: 0
+    textStyle:
+      fontAsset: {fileID: 0}
+      fontSize: 25
+      color: {r: 1, g: 1, b: 1, a: 1}
+      fontStyle: 0
+      wordSpacing: 0
+  _fadedAlpha: 0.3
